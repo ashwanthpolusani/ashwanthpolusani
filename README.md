@@ -7,7 +7,7 @@
 🔭 I’m currently working on Data Structures and Algorithms.<br>🌱 I’m currently learning Git and JavaScript.<br>👯 I’m
 eager to connect with new individuals and work together on exciting and innovative projects using the MERN Stack.<br>🤔
 I’m seeking help with connecting with new people.<br>💬 Ask me about Python—learning and loving it!<br>📫 How to reach
-me:  ashwanthpolusani@gmail.com <br>😄 Pronouns: he/him<br>⚡ Fun fact: Actions speak louder than words, so let’s put the
+me:  <a href="mailto:ashwanthpolusani@gmail.com" target="blank">ashwanthpolusani@gmail.com </a><br>😄 Pronouns: he/him<br>⚡ Fun fact: Actions speak louder than words, so let’s put the
 code into action!
 </p>
 
@@ -15,7 +15,6 @@ code into action!
 <p align="left">
 <a href="https://www.linkedin.com/in/ashwanth-polusani-881b7127a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanth pousani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_polar_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwanth polusani" height="30" width="40" /></a>
-<a href="mailto:ashwanthpolusani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="ashwanth polusani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
