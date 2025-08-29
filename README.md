@@ -7,7 +7,7 @@
 🔭 I’m currently working on Data Structures and Algorithms.<br>🌱 I’m currently learning Git and JavaScript.<br>👯 I’m
 eager to connect with new individuals and work together on exciting and innovative projects using the MERN Stack.<br>🤔
 I’m seeking help with connecting with new people.<br>💬 Ask me about Python—learning and loving it!<br>📫 How to reach
-me:<a href="ashwanthpolusani@gmail.com">ashwanthpolusani@gmail.com</a><br>😄 Pronouns: he/him<br>⚡ Fun fact: Actions speak louder than words, so let’s put the
+me:ashwanthpolusani@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Actions speak louder than words, so let’s put the
 code into action!
 </p>
 
