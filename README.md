@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer and AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanthpolusani&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanthpolusani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanthpolusani" alt="ashwanthpolusani" /></a> </p>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Data Structures and Algorithms.<br>🌱 I’m currently learning Git and JavaScript.<br>👯 I’m
 eager to connect with new individuals and work together on exciting and innovative projects using the MERN Stack.<br>🤔
 I’m seeking help with connecting with new people.<br>💬 Ask me about Python—learning and loving it!<br>📫 How to reach
