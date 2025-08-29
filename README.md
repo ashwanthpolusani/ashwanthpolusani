@@ -14,7 +14,8 @@ code into action!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashwanth-polusani-881b7127a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanth pousani" height="30" width="40" /></a>
-<a href="https://instagram.com/ashwanth polusani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwanth polusani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_polar_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwanth polusani" height="30" width="40" /></a>
+<a href="ashwanthpolusani@gmai.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="ashwanth polusani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
