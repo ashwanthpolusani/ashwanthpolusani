@@ -2,17 +2,18 @@
 <h3 align="center">A passionate frontend developer and AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanthpolusani&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanthpolusani" /> </p>
+<p align="left">
 💫 About Me:
 🔭 I’m currently working on Data Structures and Algorithms.<br>🌱 I’m currently learning Git and JavaScript.<br>👯 I’m
 eager to connect with new individuals and work together on exciting and innovative projects using the MERN Stack.<br>🤔
 I’m seeking help with connecting with new people.<br>💬 Ask me about Python—learning and loving it!<br>📫 How to reach
-me: ashwanthpolusani@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Actions speak louder than words, so let’s put the
+me:<a href="ashwanthpolusani@gmail.com">ashwanthpolusani@gmail.com</a><br>😄 Pronouns: he/him<br>⚡ Fun fact: Actions speak louder than words, so let’s put the
 code into action!
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashwanth pousani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanth pousani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashwanth-polusani-881b7127a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanth pousani" height="30" width="40" /></a>
 <a href="https://instagram.com/ashwanth polusani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwanth polusani" height="30" width="40" /></a>
 </p>
 
